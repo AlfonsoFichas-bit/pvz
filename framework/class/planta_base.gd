@@ -7,4 +7,3 @@ extends Node
 @export var vida_maxima : float = 100.0
 
 @export var celda_ocupada : Vector2
- 
