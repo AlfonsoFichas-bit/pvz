@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dy6fjp48a28js"]
+
+[ext_resource type="Script" uid="uid://b5f7q1hoiti4i" path="res://framework/class/planta_ataque.gd" id="1_hu4nh"]
+
+[node name="planta_ataque" type="Node2D"]
+script = ExtResource("1_hu4nh")
